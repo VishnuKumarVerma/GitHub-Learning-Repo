@@ -30,7 +30,7 @@ steps to start  the github:-
 8. to add all the changes to final pushing stage
     git add .
 
-9. to make final push to our change from local folder to remote folder throgh this command
+    To make final push to our change from local folder to remote folder throgh this command:-
 
     git push origin main 
 
