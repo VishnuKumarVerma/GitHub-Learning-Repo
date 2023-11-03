@@ -24,3 +24,13 @@ steps to start  the github:-
 
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+⚠️ to rever the particular commit use the below command:-
+
+    git reset --hard HEAD~1
+
+    then run:-
+
+    git push origin HEAD --force
+
+    to push the changes forcefully
