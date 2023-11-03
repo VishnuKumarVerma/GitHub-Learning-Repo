@@ -17,3 +17,10 @@ steps to start  the github:-
 7. git commit -m "(meassage of what the changes are made)" to commit all the changes<br>
 8. git add . to add all the changes to final pushing stage<br>
 9. git push origin main to make final push to our change from local folder to remote folder throgh this command.<br>
+
+⚠️ To push the current branch and set the remote as upstream, use:-
+
+    git push --set-upstream origin branchname
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
