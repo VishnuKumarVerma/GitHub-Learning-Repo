@@ -29,8 +29,8 @@ upstream, see 'push.autoSetupRemote' in 'git help config'.
 
     git reset --hard HEAD~1
 
-    then run:-
+then run:-
 
     git push origin HEAD --force
 
-    to push the changes forcefully
+to push the changes forcefully
