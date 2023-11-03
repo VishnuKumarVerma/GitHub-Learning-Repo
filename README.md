@@ -31,6 +31,7 @@ steps to start  the github:-
     git add .
 
 9. to make final push to our change from local folder to remote folder throgh this command
+
     git push origin main 
 
 ⚠️ To push the current branch and set the remote as upstream, use:-
